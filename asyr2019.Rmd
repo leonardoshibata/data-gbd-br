@@ -1,0 +1,66 @@
+---
+title: "Taxa de Anos de Vida Perdidos ajustada pela idade, Brasil e UFs, 2019"
+knit: (function(input_file, encoding) {
+    out_dir <- 'docs';
+    rmarkdown::render(input_file,
+      encoding=encoding,
+      output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+output: html_document
+---
+
+```{r load libs, include=FALSE}
+library(tidyverse)
+library(ggrepel)
+```
+
+```{r load data, include=FALSE}
+gbd <- readRDS("data/gbd.rds")
+
+asyr2019 <- gbd |> 
+  filter(measure == "YLLs (Years of Life Lost)",
+         age == "Age-standardized",
+         year == "2019") |> 
+  select(location, cause, year, val, upper, lower)
+
+yll2019 <- gbd |> 
+  filter(measure == "YLLs (Years of Life Lost)",
+         age == "All ages",
+         metric == "Number",
+         year == "2019") |> 
+  select(location, cause, year, val, upper, lower)
+
+capag <- readRDS("data/capag.rds")
+```
+
+```{r wrangle, include=FALSE}
+error_margins <- asyr2019 |>
+  filter(location == "Brazil") |> 
+  select(lower, upper) |> unlist()
+
+error_margins[1]
+error_margins[2]
+
+asyr2 <- left_join(asyr2019, capag) |> 
+  mutate(condicao = ifelse(capag %in% c("A", "B"), TRUE, FALSE))
+```
+
+
+(Age-standardized Years of Life Lost Rate)
+
+
+```{r graph, echo=FALSE}
+asyr2 |>
+  mutate(location = fct_reorder(location, val)) |>  #ordena de acordo com a média
+  ggplot() +
+  geom_rect(aes(xmin=error_margins[1], xmax=error_margins[2], ymin=-Inf, ymax=+Inf), fill='lightgrey', alpha = 0.005)+
+  geom_point(aes(x = val, y = location, color = condicao))+
+  geom_segment(aes(x = lower, xend = upper, y = location, yend = location), linewidth = 0.1)+
+  theme_classic()
+```
+
+
+Fonte dos dados:
+Global Burden of Disease Collaborative Network.
+Global Burden of Disease Study 2019 (GBD 2019) Results.
+Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2020.
+Available from https://vizhub.healthdata.org/gbd-results/.
