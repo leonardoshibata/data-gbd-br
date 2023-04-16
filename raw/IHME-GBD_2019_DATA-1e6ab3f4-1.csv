@@ -1,0 +1,85 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+YLLs (Years of Life Lost),Acre,Both,Age-standardized,All causes,Rate,2019,20450.382807419788,22283.94594952885,18684.310098083304
+YLLs (Years of Life Lost),Minas Gerais,Both,All ages,All causes,Number,2019,3765132.5177623765,4079097.747780807,3479354.2548444425
+YLLs (Years of Life Lost),Minas Gerais,Both,All ages,All causes,Rate,2019,17358.10343572067,18805.55340253319,16040.601694677558
+YLLs (Years of Life Lost),Minas Gerais,Both,Age-standardized,All causes,Rate,2019,16506.782172434174,17975.010838818765,15178.010363425392
+YLLs (Years of Life Lost),Rio de Janeiro,Both,All ages,All causes,Number,2019,3611407.1061232127,3912096.408320623,3340672.7712949044
+YLLs (Years of Life Lost),Rio de Janeiro,Both,All ages,All causes,Rate,2019,20434.545915101782,22135.946275508322,18902.640750917017
+YLLs (Years of Life Lost),Rio de Janeiro,Both,Age-standardized,All causes,Rate,2019,18689.91628835162,20177.403364909285,17348.24077392081
+YLLs (Years of Life Lost),Rio Grande do Norte,Both,All ages,All causes,Number,2019,655631.375567955,743827.795297297,574787.1115943756
+YLLs (Years of Life Lost),Rio Grande do Norte,Both,All ages,All causes,Rate,2019,17535.6459907665,19894.56481567331,15373.369372755824
+YLLs (Years of Life Lost),Rio Grande do Norte,Both,Age-standardized,All causes,Rate,2019,17323.469909646352,19596.741504474943,15238.202298891054
+YLLs (Years of Life Lost),Maranhão,Both,All ages,All causes,Number,2019,1591534.8473526814,1800727.8416221507,1388151.4863938515
+YLLs (Years of Life Lost),Maranhão,Both,All ages,All causes,Rate,2019,19037.589396910404,21539.90993122787,16604.76241700591
+YLLs (Years of Life Lost),Maranhão,Both,Age-standardized,All causes,Rate,2019,20449.145652127434,23273.231819331566,17884.508324299204
+YLLs (Years of Life Lost),Goiás,Both,All ages,All causes,Number,2019,1274595.5088672703,1454356.1519872264,1116022.807131586
+YLLs (Years of Life Lost),Goiás,Both,All ages,All causes,Rate,2019,18536.346238559363,21150.59169741778,16230.235411314523
+YLLs (Years of Life Lost),Goiás,Both,Age-standardized,All causes,Rate,2019,19075.93902996558,21519.175306853096,16877.856095788135
+YLLs (Years of Life Lost),Tocantins,Both,All ages,All causes,Number,2019,276440.8962446995,308534.165591831,246133.4536588621
+YLLs (Years of Life Lost),Tocantins,Both,All ages,All causes,Rate,2019,16839.05524428979,18793.977048000987,14992.914868719954
+YLLs (Years of Life Lost),Tocantins,Both,Age-standardized,All causes,Rate,2019,18306.320233473692,20412.6644681817,16311.58980382054
+YLLs (Years of Life Lost),Espírito Santo,Both,All ages,All causes,Number,2019,771109.8060676884,844363.9276619053,696816.8245237201
+YLLs (Years of Life Lost),Espírito Santo,Both,All ages,All causes,Rate,2019,19399.584038114535,21242.511565196888,17530.52086765112
+YLLs (Years of Life Lost),Espírito Santo,Both,Age-standardized,All causes,Rate,2019,19242.688394474833,21150.04971791977,17413.26077559856
+YLLs (Years of Life Lost),Acre,Both,All ages,All causes,Number,2019,157377.40141029295,172102.18337886358,143315.7464685813
+YLLs (Years of Life Lost),Acre,Both,All ages,All causes,Rate,2019,16987.323539690868,18576.7171445541,15469.50789489189
+YLLs (Years of Life Lost),Piauí,Both,All ages,All causes,Number,2019,645506.3111907358,711434.7422311993,584276.6109085184
+YLLs (Years of Life Lost),Piauí,Both,All ages,All causes,Rate,2019,17474.957923690676,19259.75311226416,15817.365398935674
+YLLs (Years of Life Lost),Piauí,Both,Age-standardized,All causes,Rate,2019,17392.36463804115,19196.902936915787,15721.394794606374
+YLLs (Years of Life Lost),São Paulo,Both,All ages,All causes,Number,2019,7548714.7594957175,8161601.501968002,6966969.292322213
+YLLs (Years of Life Lost),São Paulo,Both,All ages,All causes,Rate,2019,16583.60978135556,17930.04753945751,15305.585623992609
+YLLs (Years of Life Lost),São Paulo,Both,Age-standardized,All causes,Rate,2019,15922.638747335584,17153.519264542883,14778.705733402967
+YLLs (Years of Life Lost),Brazil,Both,All ages,All causes,Number,2019,39218078.48620232,40820934.994500816,37756729.73054109
+YLLs (Years of Life Lost),Brazil,Both,All ages,All causes,Rate,2019,18100.80641192778,18840.592665683613,17426.33198718406
+YLLs (Years of Life Lost),Brazil,Both,Age-standardized,All causes,Rate,2019,18066.18503763233,18969.630354245553,17202.84872458047
+YLLs (Years of Life Lost),Distrito Federal,Both,Age-standardized,All causes,Rate,2019,15318.15344268656,16608.118050620134,14197.091617910406
+YLLs (Years of Life Lost),Pernambuco,Both,All ages,All causes,Number,2019,2213038.124114665,2414162.2494950923,2009504.8443466024
+YLLs (Years of Life Lost),Pernambuco,Both,All ages,All causes,Rate,2019,21851.14222000103,23837.005825183693,19841.491055724582
+YLLs (Years of Life Lost),Pernambuco,Both,Age-standardized,All causes,Rate,2019,22246.77404004202,24317.48212434754,20173.95745763425
+YLLs (Years of Life Lost),Paraná,Both,All ages,All causes,Number,2019,2077863.4350375945,2276902.6509480807,1892603.2504996262
+YLLs (Years of Life Lost),Paraná,Both,All ages,All causes,Rate,2019,18243.281586206915,19990.81147740364,16616.729207331442
+YLLs (Years of Life Lost),Paraná,Both,Age-standardized,All causes,Rate,2019,17644.546991701372,19381.095046330713,15990.756618446409
+YLLs (Years of Life Lost),Santa Catarina,Both,Age-standardized,All causes,Rate,2019,16160.118476197276,17819.06145302923,14709.846898246931
+YLLs (Years of Life Lost),Ceará,Both,All ages,All causes,Number,2019,2013813.8340613872,2304384.202575217,1759132.892062331
+YLLs (Years of Life Lost),Ceará,Both,All ages,All causes,Rate,2019,20068.97052830639,22964.69408699428,17530.908552243618
+YLLs (Years of Life Lost),Ceará,Both,Age-standardized,All causes,Rate,2019,20137.968904922145,23038.06672844299,17594.208041711256
+YLLs (Years of Life Lost),Sergipe,Both,All ages,All causes,Number,2019,460073.18224833393,516279.6895620463,410140.62600014365
+YLLs (Years of Life Lost),Sergipe,Both,All ages,All causes,Rate,2019,19104.227774953502,21438.164982308812,17030.81214292431
+YLLs (Years of Life Lost),Sergipe,Both,Age-standardized,All causes,Rate,2019,20117.217953338164,22496.65560465964,17964.791984194002
+YLLs (Years of Life Lost),Santa Catarina,Both,All ages,All causes,Number,2019,1155910.220582524,1264972.857760487,1057585.4222979357
+YLLs (Years of Life Lost),Santa Catarina,Both,All ages,All causes,Rate,2019,16154.784057612951,17679.022982912742,14780.615151142501
+YLLs (Years of Life Lost),Mato Grosso,Both,All ages,All causes,Number,2019,568337.6402516215,616496.5213928036,524615.6324249234
+YLLs (Years of Life Lost),Mato Grosso,Both,All ages,All causes,Rate,2019,15789.941675819447,17127.924365220966,14575.22720920829
+YLLs (Years of Life Lost),Mato Grosso,Both,Age-standardized,All causes,Rate,2019,16839.39874534758,18251.903047794898,15573.807997801101
+YLLs (Years of Life Lost),Rio Grande do Sul,Both,All ages,All causes,Number,2019,2180053.752653727,2371990.509083422,2010512.6785605343
+YLLs (Years of Life Lost),Rio Grande do Sul,Both,All ages,All causes,Rate,2019,19290.790283089158,20989.194146477636,17790.560620990123
+YLLs (Years of Life Lost),Rio Grande do Sul,Both,Age-standardized,All causes,Rate,2019,16980.748553749956,18333.207109778254,15727.522998871207
+YLLs (Years of Life Lost),Pará,Both,All ages,All causes,Number,2019,1461229.926506659,1592022.013311632,1330157.482643815
+YLLs (Years of Life Lost),Pará,Both,All ages,All causes,Rate,2019,15803.872475035483,17218.448937722053,14386.263822061997
+YLLs (Years of Life Lost),Pará,Both,Age-standardized,All causes,Rate,2019,18079.732908457867,19698.46572487466,16451.29416309441
+YLLs (Years of Life Lost),Paraíba,Both,All ages,All causes,Number,2019,806929.9050126465,892752.2991507519,723473.9636781822
+YLLs (Years of Life Lost),Paraíba,Both,All ages,All causes,Rate,2019,18411.98567876753,20370.22354053517,16507.743950814533
+YLLs (Years of Life Lost),Distrito Federal,Both,All ages,All causes,Number,2019,393426.1317471072,428835.92134523153,362612.6245746535
+YLLs (Years of Life Lost),Distrito Federal,Both,All ages,All causes,Rate,2019,12988.976193153076,14158.031517597668,11971.667278482855
+YLLs (Years of Life Lost),Amazonas,Both,All ages,All causes,Number,2019,622721.6019065928,676562.7601496688,575473.0263738381
+YLLs (Years of Life Lost),Amazonas,Both,All ages,All causes,Rate,2019,14753.854363224385,16029.48797707935,13634.41575671747
+YLLs (Years of Life Lost),Amazonas,Both,Age-standardized,All causes,Rate,2019,17430.65226840378,18906.546956598413,16115.34459242671
+YLLs (Years of Life Lost),Paraíba,Both,Age-standardized,All causes,Rate,2019,17870.763297681246,19806.24518284407,16005.428382174177
+YLLs (Years of Life Lost),Bahia,Both,All ages,All causes,Number,2019,3204415.032781475,3625501.3719637347,2795173.4519919674
+YLLs (Years of Life Lost),Bahia,Both,All ages,All causes,Rate,2019,20086.782619100522,22726.350113478693,17521.463648891895
+YLLs (Years of Life Lost),Bahia,Both,Age-standardized,All causes,Rate,2019,20407.5291228457,23119.016050940478,17800.79884468472
+YLLs (Years of Life Lost),Alagoas,Both,All ages,All causes,Number,2019,770583.1688028856,855841.8958341639,690904.4221802737
+YLLs (Years of Life Lost),Alagoas,Both,All ages,All causes,Rate,2019,21052.39543243432,23381.67085421244,18875.565533507423
+YLLs (Years of Life Lost),Alagoas,Both,Age-standardized,All causes,Rate,2019,22261.846410801987,24686.851047988246,19981.501128674423
+YLLs (Years of Life Lost),Amapá,Both,All ages,All causes,Number,2019,130834.08601157942,139298.19427447935,122241.07335763372
+YLLs (Years of Life Lost),Amapá,Both,All ages,All causes,Rate,2019,15486.401603185594,16488.27033455359,14469.274881877816
+YLLs (Years of Life Lost),Amapá,Both,Age-standardized,All causes,Rate,2019,19155.842166013124,20427.00332263419,17910.226123920354
+YLLs (Years of Life Lost),Roraima,Both,All ages,All causes,Number,2019,99361.70353617794,105948.07527601265,92978.34412659793
+YLLs (Years of Life Lost),Roraima,Both,All ages,All causes,Rate,2019,16581.69742743508,17680.84548395753,15516.428510606522
+YLLs (Years of Life Lost),Roraima,Both,Age-standardized,All causes,Rate,2019,19685.95874782251,20918.124914147873,18466.80114628514
+YLLs (Years of Life Lost),Mato Grosso do Sul,Both,All ages,All causes,Number,2019,467006.389519661,509990.67073874746,428269.47291031916
+YLLs (Years of Life Lost),Mato Grosso do Sul,Both,All ages,All causes,Rate,2019,16430.86782170269,17943.20054127884,15067.971786633305
+YLLs (Years of Life Lost),Mato Grosso do Sul,Both,Age-standardized,All causes,Rate,2019,16770.190591595976,18205.92776881029,15433.94626485542
+YLLs (Years of Life Lost),Rondônia,Both,All ages,All causes,Number,2019,295029.8213450301,329516.47032950266,263729.6150310345
+YLLs (Years of Life Lost),Rondônia,Both,All ages,All causes,Rate,2019,16609.99049458411,18551.566804431972,14847.808871778005
+YLLs (Years of Life Lost),Rondônia,Both,Age-standardized,All causes,Rate,2019,18300.932768286042,20324.838116496954,16494.261577103964
